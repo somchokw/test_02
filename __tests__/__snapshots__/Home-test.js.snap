@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home snapShot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "height": "100%",
+      "justifyContent": "center",
+    }
+  }
+>
+  <View
+    accessible={true}
+    focusable={true}
+    isTVSelectable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={null}
+  >
+    <Text
+      style={null}
+    >
+       button test
+    </Text>
+  </View>
+</View>
+`;
